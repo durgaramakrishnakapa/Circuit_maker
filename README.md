@@ -79,9 +79,7 @@ AI Processing:
 ## Team
 - **Durga Rama Krishna Kapa** (Team Lead) - AI/ML Development
   - Contact: k.durgaramakrishna2005@gmail.com | 8790621879
-- **Leela Prasad** - AI/ML Development
 - **Lahari** - Frontend Development
-- **Venu** - Backend Development
 
 
 
